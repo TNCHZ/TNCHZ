@@ -1,12 +1,4 @@
-<h1 align="center">👋 Hi, I'm Chương!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=4C8EDA&center=true&vCenter=true&width=440&lines=React+Native+Developer;Java+Spring+Backend;Django+REST+Framework;Always+Learning+New+Tech" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me
+## About Me
 - 👨‍💻 React Native & Java Spring Boot developer  
 - 🌱 Learning: Spring Boot • Docker • OpenStack  
 - 🔥 Thích UI đẹp + backend chuẩn chỉ  
@@ -14,12 +6,13 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### **Backend**
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
