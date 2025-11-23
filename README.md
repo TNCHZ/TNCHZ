@@ -1,9 +1,8 @@
 ## About Me
-- 👨‍💻 React Native & Java Spring Boot developer  
-- 🌱 Learning: Spring Boot • Docker • OpenStack  
-- 🔥 Thích UI đẹp + backend chuẩn chỉ  
-- 🎯 Mục tiêu: trở thành fullstack developer
-
+- 👨‍💻 Mobile Developer (React Native & Flutter) • Backend Developer with Java Spring Boot  
+- 🌱 Currently learning: Docker • OpenStack • Clean Architecture  
+- 🎨 Passionate about clean UI/UX, high-performance apps, and maintainable code  
+- 🎯 Goal: Become a skilled Fullstack Developer
 ---
 
 ## Tech Stack
@@ -37,17 +36,15 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNCHZ&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TNCHZ/TNCHZ/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: dochuong2222@gmail.com  
+<p align="center">
+  <a href="mailto:dochuong2222@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://facebook.com/nguyenchuong.truong.12"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+  <a href="https://linkedin.com/in/tr%C6%B0%C6%A1ng-ch%C6%B0%C6%A1ng-93b1762a5"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
